@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/consul-properties/static/css/main.ed829e7c.chunk.css",
+    "main.js": "/consul-properties/static/js/main.46b9289e.chunk.js",
+    "main.js.map": "/consul-properties/static/js/main.46b9289e.chunk.js.map",
+    "runtime-main.js": "/consul-properties/static/js/runtime-main.5fa936a6.js",
+    "runtime-main.js.map": "/consul-properties/static/js/runtime-main.5fa936a6.js.map",
+    "static/css/2.f3f01324.chunk.css": "/consul-properties/static/css/2.f3f01324.chunk.css",
+    "static/js/2.5286ff29.chunk.js": "/consul-properties/static/js/2.5286ff29.chunk.js",
+    "static/js/2.5286ff29.chunk.js.map": "/consul-properties/static/js/2.5286ff29.chunk.js.map",
+    "index.html": "/consul-properties/index.html",
+    "static/css/2.f3f01324.chunk.css.map": "/consul-properties/static/css/2.f3f01324.chunk.css.map",
+    "static/css/main.ed829e7c.chunk.css.map": "/consul-properties/static/css/main.ed829e7c.chunk.css.map",
+    "static/js/2.5286ff29.chunk.js.LICENSE.txt": "/consul-properties/static/js/2.5286ff29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa936a6.js",
+    "static/css/2.f3f01324.chunk.css",
+    "static/js/2.5286ff29.chunk.js",
+    "static/css/main.ed829e7c.chunk.css",
+    "static/js/main.46b9289e.chunk.js"
+  ]
+}
